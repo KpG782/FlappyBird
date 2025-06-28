@@ -70,8 +70,8 @@ Angel's Burger – Flying Saucer is a fast-paced, Flappy Bird-inspired arcade ga
 ## 📸 **Screenshots**
 
 ![image](https://github.com/user-attachments/assets/229b5957-af36-489f-ba11-9d761ed74246)
-![image](https://github.com/user-attachments/assets/6ffc5e36-ef15-42e7-8526-75d4a190c0f8)
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/fb74d62e-1f8d-4082-840f-3fc0c4a2e5e4)
+![image](https://github.com/user-attachments/assets/e2517bc6-9c53-4a92-a1ba-ec4d6f707ba8)
 
 
 ## 🤝 **Contributing**

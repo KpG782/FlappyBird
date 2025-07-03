@@ -2,7 +2,7 @@
 
 ### _A Flappy Bird-inspired Unity Game with a Pinoy Kitchen Twist!_
 
-![Unity](https://img.shields.io/badge/Unity-2021%2B-blue?logo=unity) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey) ![License](https://img.shields.io/badge/License-Educational%20%26%20Non-Commercial-green)
+![Unity](https://img.shields.io/badge/Unity-2021%2B-blue?logo=unity) ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Mac%20%7C%20Linux-lightgrey)
 
 ---
 

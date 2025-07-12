@@ -78,6 +78,19 @@ Angel's Burger – Flying Saucer is a fast-paced, Flappy Bird-inspired arcade ga
 
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change or add.
 
+## **Scripts & Architecture**
+
+- **GameManager.cs:** Core loop, game states, score management.
+
+- **PlayerController.cs:** Flap input, physics adjustments, collision callbacks.
+
+- **ObstacleSpawner.cs:** Timed obstacle instantiation with random offsets.
+
+- **UIManager.cs:** HUD updates, highscore display, pause menu controls.
+
+- **SoundManager.cs:** Centralized SFX and music playback.
+
+
 ## 🇵🇭 **Special Thanks**
 
 - Inspired by Angel's Burger – a Filipino street food icon
